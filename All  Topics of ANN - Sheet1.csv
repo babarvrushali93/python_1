@@ -1,0 +1,20 @@
+Index,Topic Name,Notebook Link,Additional Reference Link
+0,ML Flow model observation,https://colab.research.google.com/drive/1viCN4mmezuf_5nZ_nDNKdUqk9y2AoUFS?usp=sharing,no
+1,Introduction to Deep Learning,https://colab.research.google.com/drive/19l3VTQiTXXD0xAvLLK1nGcOX3BFtTW5R?usp=sharing,no
+2,Perceptron,https://colab.research.google.com/drive/1H-tl8Dom4ekqFKidUdyGD8_J7kze8hgg?usp=sharing,no
+3,Basic of ANN (Artificial Neural Network),https://colab.research.google.com/drive/1LOA6CHEAfRTg9eU2BQ79v-W5iIidd1IS?usp=sharing,no
+4,Implementation of ANN using Keras,https://colab.research.google.com/drive/1RFiOSciHt2_el5UIHV6oe-JsEBFpun8c?usp=sharing,no
+5,Callback functions,https://drive.google.com/file/d/1A_YB5d2uZCtzoNUHDZF38UCOUq8mq4X1/view?usp=sharing,no
+6,Regression using ANN,https://drive.google.com/file/d/1kEQjzgXgwz-q79oOlYLdqFydMP4bmCPR/view?usp=sharing,no
+7,Derivation of Necessary Mathematics,https://colab.research.google.com/drive/1kQv11awBmPrHwlBgPzNbBLsm7IhLRPsw?usp=sharing,no
+8,Gradient Descent,https://colab.research.google.com/drive/1IqrdB0r7Hw-TioZ8WYZxgfZAW_JNZ3ll?usp=sharing,https://arxiv.org/abs/1609.04747
+9,Chain Rule & Backpropagation,https://colab.research.google.com/drive/1Vu6gZx6thRwAKGiUIla2tHxj37mVrbxj?usp=sharing,no
+10,Problem faces NN & weight initialization,https://colab.research.google.com/drive/1jOQxgqmfHW-OScHCKYRUBVJV_T9wQGba?usp=sharing,no
+11,Different Activation Function,https://colab.research.google.com/drive/1qKfLsjfh_z0kK-huXv3OVzw9MdDUhK4q?usp=sharing,no
+12,Transfer Learning,https://colab.research.google.com/drive/11JshCPlLPgDE0azugStLkBvBuJYx6Uf9?usp=sharing,no
+13,Batch Normalization,https://colab.research.google.com/drive/1uI5yrGq8NXzaKPKrlr1rWrwpHuzyWuZK?usp=sharing,no
+14,Batch Normalization Practical,https://colab.research.google.com/drive/1y1R4RYRhaAVF6qllZsV6EP0PuDVvVHNI?usp=sharing,no
+15,Optimizers,https://colab.research.google.com/drive/1j8PQgEjWmXFoabz_gwE9mJsL-fC3Pxao?usp=sharing,Adam: https://arxiv.org/pdf/1412.6980.pdf
+16,Regularization,https://colab.research.google.com/drive/1_-maP2q17-CRKOGm_ROos4oKkryISQMx?usp=sharing,https://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf
+17,Loss Functions | Gradient Clipping,https://colab.research.google.com/drive/1ko2Vokgk9RH4L8-eL0pRaamsYFNWvqNd?usp=sharing,no
+18,Some General Guidlines,https://colab.research.google.com/drive/1eN_Ym9rs5kNlsyQwWS_D0jxS-79nuQ-6?usp=sharing,no
